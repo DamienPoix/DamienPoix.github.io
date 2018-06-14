@@ -1,6 +1,4 @@
 .container{
-  padding-left: 10px;
-  padding-right:10px;
 }
 @media (min-width: 768px) {
   .container {
@@ -18,7 +16,6 @@
   }
 }
 body{
-  margin: 0;
   background-image: url(BoisNoir.jpg);
 }
 h1{
@@ -37,7 +34,6 @@ h2 , p , a {
   color: orange;
   text-align: center;
   text-decoration: underline;
-  font-weight: bold;
 }
 #Compétence1{
   height: 30px;
@@ -203,7 +199,6 @@ li img{
   border-bottom-left-radius: 15px 15px;
   border-bottom-right-radius: 150px 50px;
   background-image: linear-gradient(#343434, grey,silver,white);
-  text-align: center;
   text-decoration: none;
 }
  ol{
@@ -212,4 +207,8 @@ li img{
 h3{
     font-family: 'Fredoka One', cursive;
     color:#000951;
+}
+div .carousel-item{
+  min-height: 500px;
+  max-height: 500px;
 }
