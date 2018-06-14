@@ -16,7 +16,7 @@
   }
 }
 body{
-  background-image: url(BoisNoir.jpg);
+  background-image:url(../img/BoisNoir.jpg);
 }
 h1{
   font-family: 'Fredoka One', cursive;
