@@ -200,6 +200,7 @@ li img{
   border-bottom-right-radius: 150px 50px;
   background-image: linear-gradient(#343434, grey,silver,white);
   text-decoration: none;
+  text-align: center;
 }
 ol{
   list-style: none
